@@ -21,7 +21,7 @@ care and feeding of factors.
 You can install myfoofactor like so:
 
 ``` r
-devtools::install_github("Mahmoodan/myfoofactor")
+devtools::install_github("mojister/myfoofactor")
 ```
 
 ## Quick demo
